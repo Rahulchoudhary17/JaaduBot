@@ -6,10 +6,10 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 
 # Use this link to get string session-:
 
-# http://generatestringsession.rangerop.repl.run
+# https://replit.com/@rangerop/Generatestringsession#main.py
 
 For any query
-# https://t.me/jaadu_bot_official
+# [Join] (t.me/Jaadubotofficial)
 
 # FORK AT YOUR OWN RISK
 # Installing
