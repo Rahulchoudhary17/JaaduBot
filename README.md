@@ -9,7 +9,7 @@ This is a userbot made for telegram. I made this userbot with help of all other 
 # https://replit.com/@rangerop/Generatestringsession#main.py
 
 For any query
-# [Join] (t.me/Jaadubotofficial)
+# [![Join]!](t.me/Jaadubotofficial)
 
 # FORK AT YOUR OWN RISK
 # Installing
